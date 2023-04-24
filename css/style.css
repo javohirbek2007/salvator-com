@@ -1,0 +1,203 @@
+body{
+    margin: 0;
+    text-align: center;
+    
+    
+    
+
+}
+
+.top-container {
+    padding-top: 200px;
+    background-color: #d3f7f0;
+    
+}
+
+.Im{
+    font-family: 'Pacifico', cursive;
+    color: #66BFBF;
+    font-size: 500%;
+}
+.h2{
+    
+    color: #66BFBF;
+}
+.h3{
+
+    color: #11999E;
+
+}
+
+
+
+
+/* h1 {
+    margin:0 auto 0 auto;
+    position: absolute;
+    bottom: 490px;
+    left: 600px;
+
+} */
+
+
+.cloud1{
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+    width: 200px;
+}
+
+.cloud2{
+    position: absolute;
+    left: 1000px;
+    bottom:500px;
+    width: 200px;
+   
+}
+
+.intro{
+    color: black;
+    width: 800px;
+    margin-left:300px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 17px;
+    
+
+    
+}
+
+
+
+.intro2{
+    color: black;
+    transition: all 2s;
+    margin-left:370px;
+    line-height: 25px;
+  
+    
+    
+    
+}
+
+
+
+.intro3{
+    color: black;
+    width: 800px;
+    margin-left: 200px;
+    line-height: 25px;
+  
+    
+}
+
+
+
+p {
+    text-align: left;
+    
+    
+}
+
+.web-icon{
+    float: right;
+    margin-right: 0px;
+    width: 160px;
+    
+}
+
+.code-icon{
+    float: left;;
+    margin-left: 200px;
+    width: 150px;
+}
+.Coursere{
+    margin-right: 630px;
+    color: #69e0e4;
+    
+}
+.Udemy{
+    text-align: left;
+    color: #69e0e4;
+    margin-left: 200px;
+    
+}
+
+.skills{
+    width: 1100px;
+}
+hr.hr1{
+    width: 90px;
+    border-top: 9px dotted red;
+    border-bottom: none;
+    margin: 2px auto;
+    border-color: aqua;
+
+}
+
+.myskills{
+    color: #69e0e4;
+  
+}
+.footer-message{
+    position: absolute;
+    left: 200px;
+    top: 1780px;
+}
+
+.btn{
+    position: absolute;
+    top: 1840px;
+    right: 700px;
+    background-color: #11999E;
+    border-radius: 3px;
+    width: 150px;
+    height: 20px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.footer-link1{
+    position: absolute;
+    bottom: 70px;
+    
+    left: 550px;
+    color: #11999E;
+    text-decoration: none;
+
+}
+.footer-link2{
+    position: absolute;
+    bottom: 70px;
+    width: 200px;
+    left: 600px;
+    text-decoration: none;
+    color: #11999E;
+
+}
+.footer-link3{
+    position: absolute;
+    bottom: 70px;
+    width: 200px;
+    left: 700px;
+    text-decoration: none;
+    color: #11999E;
+    
+}
+.copyright{
+    position: absolute;
+    bottom: 8px;
+    left: 600px;
+    color: #EAF6F6;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    width: 1470px;
+    height: 150px;
+    bottom: -110px;
+    position: relative;
+    
+}
